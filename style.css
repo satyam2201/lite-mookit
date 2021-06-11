@@ -1,0 +1,170 @@
+.div1{
+    background-color:#0086ff;
+    width: 100%;
+    height: 120px;
+    border-style: none;
+    border-top-style:solid;
+     border-width: 4px;
+    border-top-color:#bfbfbf;
+    
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(17%, 39%, 73%);
+}
+.bg-light {
+    background-color: #ffffff!important;
+}
+a{
+    font-weight: bold;
+    color: blue;
+    
+}
+.helloiitk{
+    font-weight: normal;
+    font-family: serif;
+    font-size: 2rem;
+    margin-left:60px; 
+   margin-bottom: 15px;
+}
+#username{
+    padding: 20px;
+    font: size 80px;
+    color: white;
+    font-family: serif;
+}
+#nav-mar{
+    padding-right: 60px;
+    
+}
+.div2{
+   margin: 30px;
+
+}
+
+.btn {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+    padding: 8px 17px 8px 16px;
+    border: solid #ededed 1px;
+    text-decoration: none;
+   margin-left: 5px; 
+  }
+  
+  .btn:hover {
+    text-decoration: none;
+  }
+  hr{
+margin-left: 10px;
+margin-top: 0;
+margin-bottom:0 ;
+border-style: none;
+border-top-style:solid;
+border-width:1px;
+border-color: rgb(179, 176, 176);
+  }
+
+span{
+ font-weight: bold;
+ font-size: 18px;
+}
+/* .myimg{
+    position: relative;
+    left: 620px;
+    bottom: 10px;
+    
+} */
+/* .box{
+    width: 300px;
+   text-align: center;
+    position: relative;
+    left: 520px; 
+} */
+.div3{
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;}
+
+#text{
+    padding: 15px;
+    font-family: serif;
+    line-height: 10px;
+    
+} 
+#text2{
+    padding: 15px;
+}
+.div4{
+    padding: 15px;
+}
+#hr2{
+    border-top-style:solid;
+    border-top-color: blue;
+    
+    border-width: 3px;
+}
+.div6{
+    margin-top: 80px;
+    height: 130px;
+    background-color:#2e2e31;
+}
+#mookitlogo{
+    margin: 50px 0 0 200px;
+    height: 55px;
+    width: 155px;
+}
+
+.table1{
+    width: 500px;
+    height: 300px;
+}
+.box{
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    background-color: #FCFBFB;
+    border-style: none;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(179, 176, 176);
+    border-right-style:solid ;
+    border-right-width: 1px;
+    border-right-color:rgb(202, 202, 202) ;
+    padding: 20PX;
+}
+
+.boxhr{
+    border-style: solid;
+    border-color: rgb(38, 0, 255);
+}
+.teacher{
+    color: #050EB4;
+    font-size: 1.4rem;
+    line-height: 150%;
+
+}
+.subject{
+    color: rgba(7, 5, 5, 0.835);
+}
+#last{
+    /* background-color: rgb(49, 49, 49); */
+    padding-top: 40px;
+    color: rgb(54, 3, 75);
+    font-size: 1.5rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    text-align: center;
+
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+.fab{
+    cursor: pointer;
+    font-size: 30px;
+    margin-right:10px ;
+    margin-bottom: 20px;
+}
